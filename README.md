@@ -5,7 +5,7 @@ This script batch converts videos from `/sdcard/Download/HighS/` to **1080p reso
 ## 🔧 Usage (Termux)
 ```bash
 pkg install git ffmpeg -y
-git clone https://github.com/Piyash-ORG/ffmpeg-convert-1080p.git
+git clone https://github.com/jiocreator/ffmpeg-convert-1080p.git
 cd ffmpeg-convert-1080p
 chmod +x convert.sh
 ./convert.sh
